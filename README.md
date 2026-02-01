@@ -1,2 +1,2 @@
-# Win32-Paint-Tool
-A simple paint app made using the Win32 API.
+# SDL-Paint-Tool
+A simple paint app made using SDL.
